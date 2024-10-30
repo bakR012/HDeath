@@ -1,0 +1,5 @@
+name: HDeath
+version: '1.0-SNAPSHOT'
+main: me.bakr.hDeath.HDeath
+api-version: '1.21'
+authors: [ bakR ]

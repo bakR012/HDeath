@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="h-death:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/h_death_jar</output-path>
+    <root id="archive" name="h-death.jar">
+      <element id="module-output" name="h-death" />
+    </root>
+  </artifact>
+</component>
